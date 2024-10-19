@@ -1,6 +1,6 @@
 # ICC Student Repository
 # About
-This is the personal repository of <student-name>.
+This is the personal repository of <Danilo Medeiros>.
 I'll keep updating this repository as I advance through my
 cybersecurity course.
 
