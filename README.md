@@ -6,8 +6,8 @@ cybersecurity course.
 
 # Folder Structure
 ```bash
--Exercises/ # All the scripts, bash, powershell, python go
-here.
+- exercises/ # All the scripts, bash, powershell, python go
+[here](https://github.com/Medeiros-GH/ICC-01-personal-rep/blob/main/Exercises).
 |_ resources/ # All the helpful resources you come across in
-your journey go here.
+your journey go here https://github.com/Medeiros-GH/ICC-01-personal-rep/blob/main/Resources.
 ```
